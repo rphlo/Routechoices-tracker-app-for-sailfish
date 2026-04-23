@@ -4,16 +4,14 @@ import Nemo.Configuration 1.0
 import "pages"
 
 ApplicationWindow {
-    initialPage: Component { FirstPage { } }
+    initialPage: Component { MainPage { } }
     cover: Qt.resolvedUrl("cover/CoverPage.qml")
     allowedOrientations: defaultAllowedOrientations
-
 
     ConfigurationValue
         {
             id: deviceIdSetting
             key: "/apps/routeChoicesTracker/settings/deviceId"
             defaultValue: ""
-
         }
 }

@@ -10,24 +10,24 @@
     </message>
 </context>
 <context>
-    <name>FirstPage</name>
+    <name>MainPage</name>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="58"/>
+        <location filename="../qml/pages/MainPage.qml" line="58"/>
         <source>Routechoices Tracker</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="93"/>
+        <location filename="../qml/pages/MainPage.qml" line="93"/>
         <source>Start Tracking</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="109"/>
+        <location filename="../qml/pages/MainPage.qml" line="109"/>
         <source>GPS Coordinates will appear here</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/FirstPage.qml" line="119"/>
+        <location filename="../qml/pages/MainPage.qml" line="119"/>
         <source>Initializing, please wait</source>
         <translation type="unfinished"></translation>
     </message>

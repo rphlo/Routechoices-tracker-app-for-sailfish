@@ -17,7 +17,7 @@ CONFIG += sailfishapp_qml
 DISTFILES += qml/RouteChoices.qml \
     icons/banner.jpg \
     qml/cover/CoverPage.qml \
-    qml/pages/FirstPage.qml \
+    qml/pages/MainPage.qml \
     rpm/RouteChoices.changes.in \
     rpm/RouteChoices.changes.run.in \
     rpm/RouteChoices.spec \
