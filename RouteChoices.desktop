@@ -18,4 +18,4 @@ OrganizationName=org.myorg
 # ApplicationName does not have to be identical to Name
 ApplicationName=RouteChoices
 # Add the required permissions here
-Permissions=Internet;Location;
+Permissions=Internet;Location
